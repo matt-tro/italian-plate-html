@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-  width: 510px;
+  width: 590px;
   margin: 20px auto;
 }
 
@@ -23,12 +23,13 @@ body {
   padding-left: 60px;
   padding-bottom: 10px;
   
-  width: 510px;
+  width: 590px;
   border: 5px solid red;
   border-radius: 15px;
   outline: none;
-  
-  &::placeholder {
-    color: #eee;
-  }
+
+}
+
+.licenseplate::placeholder {
+  color: #eee;
 }
