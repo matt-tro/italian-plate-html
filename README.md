@@ -10,3 +10,4 @@ Please note that the standard italian plate is formed by two letters, a space, t
 ## Mantainers
 - Mattia Trombon (project manager)
 - Marco Bimbati
+- Francesca Reale
